@@ -2,11 +2,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&duration=5035&pause=1000&color=723FF7&center=true&vCenter=true&multiline=true&width=435&height=71&lines=Hello%2C+I'm+Lithap;Web+developer+and+designer" alt="Typing SVG" /></a>
 
-I ❤️ Front-End!
-
-:computer: Self Tought Front-End Developer
-
-🖖 CSS Learner | 🔐 Web3 Learner | Marathon Lover
 
 <!-- Social icons section -->
 <p align="center">
@@ -20,6 +15,13 @@ I ❤️ Front-End!
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Lithap?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Lithap?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Lithap?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  
+  I ❤️ Front-End!
+
+:computer: Self Tought Front-End Developer
+
+🖖 CSS Learner | 🔐 Web3 Learner | Marathon Lover
+  
 
  ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 

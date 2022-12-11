@@ -16,7 +16,7 @@
   <a href="https://github.com/Lithap?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Lithap?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
-<detail open>
+<details><summary>Toggle me!</summary>Peek a boo!</details>
   
 | Github Stats | Top Languages |
 | --- | --- |

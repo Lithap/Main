@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://discord.gg/invite" alt="Discord" title="Lithap's Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  
 </p>
 
 <!--Tabs Followers n Stars-->

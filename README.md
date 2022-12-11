@@ -22,3 +22,10 @@
 | --- | --- |
 | ![Lithap's github stats](https://github-readme-stats.vercel.app/api?username=Lithap&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Lithap's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lithap&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 </details>
+
+  <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+

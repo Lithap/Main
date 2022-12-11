@@ -5,7 +5,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&duration=5035&pause=1000&color=723FF7&center=true&vCenter=true&multiline=true&width=435&height=71&lines=Hello%2C+I'm+Lithap;Web+developer+and+designer" alt="Typing SVG" /></a>
 
-  	/azure-devops/build/:organization/:projectId/:definitionId
 
 <!-- Social icons section -->
 <p align="center">

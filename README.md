@@ -16,7 +16,7 @@
   <a href="https://github.com/Lithap?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Lithap?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lithap-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lithap-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 <details><summary>My Stats</summary>
   

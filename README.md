@@ -21,7 +21,7 @@
   
   I ❤️ Javascript!
 
-:computer: Self Tought Front-End Developer
+:computer: Self Tought Developer
 
 🖖 CSS Learner | 🔐 Web3 Learner | Marathon Lover
   

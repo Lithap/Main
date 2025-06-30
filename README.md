@@ -23,7 +23,7 @@
 
 :computer: Self Tought Developer
 
-🖖 CSS Learner | 🔐 Web3 Learner | Marathon Lover
+🖖 Cyber Engineer | 🔐  Layered III Infrastructure Architect | Marathon Lover
   
 
  ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
